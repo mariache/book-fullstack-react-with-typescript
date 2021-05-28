@@ -10,7 +10,7 @@
     "dev": "concurrently --kill-others \"yarn serve\" \"next\""
   },
   "dependencies": {
-    "@types/styled-components": "^5.1.0",
+    "@types/styled-components": "^5.1.9",
     "babel-plugin-styled-components": "^1.10.7",
     "body-parser": "^1.19.0",
     "concurrently": "^5.1.0",
