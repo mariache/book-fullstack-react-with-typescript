@@ -1071,13 +1071,6 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha512-ce5d3q03Ex0sy4R14722Rmt6MT07Ua+k4FwDfdcToYJcMKNtRVQvJ6JCAPdAmAnbRb6CsX6aYb9m96NGod9uTw==
 
-"@types/react-native@*":
-  version "0.62.2"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.62.2.tgz#f3e150f308c27089cefbcbfa3eb6cc14db279b2f"
-  integrity sha512-oIUIbqZNN9vRnGKWHYbTVp/GyTqdaM5mfy1s4zsi6BYvHAaFOPZ32IrhIHno/A5XOv4wuGfE7g5fliDk/H0+/Q==
-  dependencies:
-    "@types/react" "*"
-
 "@types/react@*", "@types/react@^16.9.34":
   version "16.9.34"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.34.tgz#f7d5e331c468f53affed17a8a4d488cd44ea9349"
@@ -1086,15 +1079,14 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/styled-components@^5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.0.tgz#24d3412ba5395aa06e14fbc93c52f9454cebd0d6"
-  integrity sha512-ZFlLCuwF5r+4Vb7JUmd+Yr2S0UBdBGmI7ctFTgJMypIp3xOHI4LCFVn2dKMvpk6xDB2hLRykrEWMBwJEpUAUIQ==
+"@types/styled-components@^5.1.9":
+  version "5.1.9"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.9.tgz#00d3d84b501420521c4db727e3c195459f87a6cf"
+  integrity sha512-kbEG6YlwK8rucITpKEr6pA4Ho9KSQHUUOzZ9lY3va1mtcjvS3D0wDciFyHEiNHKLL/npZCKDQJqm0x44sPO9oA==
   dependencies:
     "@types/hoist-non-react-statics" "*"
     "@types/react" "*"
-    "@types/react-native" "*"
-    csstype "^2.2.0"
+    csstype "^3.0.2"
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
@@ -2394,6 +2386,11 @@ csstype@^2.2.0:
   version "2.6.10"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.10.tgz#e63af50e66d7c266edb6b32909cfd0aabe03928b"
   integrity sha512-D34BqZU4cIlMCY93rZHbrq9pjTAQJ3U8S8rfBqjwHxkGPThWFjzZDQpgMJY0QViLxth6ZKYiwFBo14RdN44U/w==
+
+csstype@^3.0.2:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.8.tgz#d2266a792729fb227cd216fb572f43728e1ad340"
+  integrity sha512-jXKhWqXPmlUeoQnF/EhTtTl4C9SnrxSH/jZUih3jmO6lBKr99rP3/+FmrMj4EFpOXzMtXHAZkd3x0E6h6Fgflw==
 
 cyclist@^1.0.1:
   version "1.0.1"
