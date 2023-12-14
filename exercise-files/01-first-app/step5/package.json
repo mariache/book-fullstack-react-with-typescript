@@ -19,7 +19,7 @@
     "react-scripts": "4.0.0",
     "styled-components": "^5.0.1",
     "typescript": "~3.7.2",
-    "snyk": "^1.618.0"
+    "snyk": "^1.675.0"
   },
   "scripts": {
     "start": "react-scripts start",
