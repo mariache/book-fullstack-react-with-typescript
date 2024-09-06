@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "@types/styled-components": "^5.1.0",
-    "babel-plugin-styled-components": "^1.10.7",
-    "next": "^10.2.1",
+    "babel-plugin-styled-components": "^2.1.1",
+    "next": "^12.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "styled-components": "^5.1.0"
+    "styled-components": "^6.1.0"
   },
   "devDependencies": {
     "@types/node": "^13.13.2",
